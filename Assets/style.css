@@ -95,7 +95,16 @@ header {
     /* other background */
 
     position: relative;
+  } 
+
+
+  .hero-content {
+    display: flex;
+    justify-content: center;
+
+    /* margin: 0 auto;  */
   }
+
    .hero-banner h2 {
     background-color: var(--HERO-H2-BGCOLOR);
     color: var(--HERO-H2-COLOR);
@@ -122,8 +131,11 @@ header {
     font-size: 40px;
     text-align: end;
     padding-right: 15px;
+
+
   }
    h2 {
+    display: flex;
     color: var(--SECTION-H2-COLOR);
     text-align: end;
     font-size: clamp(2rem, 3vw, 3rem);
