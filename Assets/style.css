@@ -159,12 +159,20 @@ header nav {
     "p3 p4";
   gap: 20px;
 }
+
+.horiseon-img{
+  height: 100%;
+  background-size: cover;
+    object-position: center;
+    background-image: url(./Horiseon\ Project.png); 
+}
+
 #horiseon-img {
   /* width: 100%; */
   height: 100%;
 background-size: cover;
   object-position: center;
-  background-image: url("/Assets/Horiseon\ Project.png");
+  background-image: url(./Horiseon\ Project.png);
 }
  
  /* Grid areas */
