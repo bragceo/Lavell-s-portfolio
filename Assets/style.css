@@ -179,18 +179,7 @@ background-size: cover;
 .p0 {
   grid-area: p0;
 }
-.p1 {
-  grid-area: p1;
-}
-.p2 {
-  grid-area: p2;
-}
-.p3 {
-  grid-area: p3;
-}
-.p4 {
-  grid-area: p4;
-}
+
  figure {
   width: 100%;
   position: relative;
@@ -276,11 +265,8 @@ background-size: cover;
     grid-template-rows: 200px 200px 200px 200px 200px;
     grid-template-areas:
       "p0"
-      "p1"
-      "p2"
-      "p3"
-      "p4";
-  }
+   }
+   
   .page-section {
     border-right: 0;
     border-bottom: 4px solid var(--SECTION-BORDER);
