@@ -1,12 +1,12 @@
 # portfolio---challenge---2
 
-// User Story
+## User Story
 
 AS A potential candidate for employment
 I WANT an employer to view my deployed portfolio of work samples
 SO THAT a potential employer can review samples of my work and assess whether I am good candidate for an open position
 
-// Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a potential employer needs to sample my previous work
 WHEN I load their portfolio
