@@ -45,3 +45,15 @@ The header contains my name and a navigation bar with links to the different sec
 
 The CSS code is responsible for the overall aesthetics and layout of the webpage. The code uses CSS variables for color themes, Flexbox for layout management, media queries for responsiveness, smooth scrolling, and custom typography. The CSS also features a Grid layout for arranging portfolio items in the "Work" section, and different hover effects for the navigation and contact links. The media queries at the end ensure that the layout adjusts accordingly for different viewport sizes, making the webpage responsive for mobile view.
 
+## Authors 
+
+Lavell Juan <br>
+
+
+## Credits 
+
+N/a
+
+## License 
+Please refer to license in repo 
+
